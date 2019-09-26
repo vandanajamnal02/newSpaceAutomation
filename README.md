@@ -3,9 +3,8 @@ protractor Automation
 ##to run automation :
 
 first Need to run Project in localhost
-```bash
 
-Do git clone```
+```Do git clone```
 
 ```bash
 npm install```
