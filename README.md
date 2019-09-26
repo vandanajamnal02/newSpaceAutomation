@@ -1,8 +1,8 @@
 # newSpaceAutomation
 protractor Automation
-##to run automation :
+##  to run automation :
 
-first Need to run Project in localhost
+first Need to run Mvane Project in localhost
 
 ```Do git clone```
 
@@ -12,6 +12,6 @@ first Need to run Project in localhost
 
 ```npm test```
 
-##thats all!!!!
+##   thats all!!!!
 
 To check test result look in testresult folder for screenshots and htmlreport
