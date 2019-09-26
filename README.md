@@ -6,14 +6,11 @@ first Need to run Project in localhost
 
 ```Do git clone```
 
-```bash
-npm install```
+```npm install```
 
-```bash
-npm start```
+```npm start```
 
-```bash
-npm test```
+```npm test```
 
 ##thats all!!!!
 
