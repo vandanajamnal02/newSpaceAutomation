@@ -2,7 +2,7 @@
 protractor Automation
 ##  to run automation :
 
-first Need to run Mvane Project in localhost
+first Need to run Pet Maven Project in localhost
 
 ```Do git clone```
 
